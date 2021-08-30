@@ -26,6 +26,6 @@ Cron Job to run this script every hour:
 * also find Dockerfile
 * please pass the BRANCH name in jenkins job to trigger job for staging/release branch.
 
-Note: can use .dockerignore file to not to copy all the node modules in image.
+Note: can use dockerignore file to avoid copying all the node modules in image.
 
 ## THANK YOU
