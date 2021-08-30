@@ -5,13 +5,13 @@
 
 ### Part A
 
-* run the govtech-script.sh file as below.
+* run the response-script.sh file as below.
 * if email utility is configured in your linux box, please change the To Parameter to actual email address in script and run it.
 
-./govtech-script.sh apache_logs
+./response-script.sh apache_logs
 
 Cron Job to run this script every hour: 
-0 */1 * * * /tmp/govtech-script.sh
+0 */1 * * * /tmp/response-script.sh
 
 ### Part B
 
