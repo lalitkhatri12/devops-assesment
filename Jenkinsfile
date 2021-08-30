@@ -25,10 +25,9 @@ pipeline {
                     sh """
                     npm config set registry https://registry.npmjs.org/
                     npm install
-					npm test
-					zip -r package.zip *
-					pwd
-					ls -ltr
+		    npm test
+		    zip -r package.zip *
+		    ls -ltr
                     """
                 }
             }
