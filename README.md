@@ -24,5 +24,6 @@ Cron Job to run this script every hour:
 
 * Please find Jenkinsfile
 * also find Dockerfile
+* please pass the BRANCH name in jenkins job to trigger job for staging/release branch.
 
 ## THANK YOU
