@@ -1,7 +1,7 @@
 # Govtech Interview
 
 
-## Task1
+## Task 1
 
 ### Part A
 
@@ -20,7 +20,7 @@ Cron Job to run this script every hour:
 * create the script to auto delete the log file, run script daily which will auto delete logs which are older than 3 months.
 * if still face storage issue, zip/tar all the logs older thn 1 month and delete the logs file.
 
-## Task1
+## Task 2
 
 * Please find Jenkinsfile
 * also find Dockerfile
